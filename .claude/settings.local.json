@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(xxd)"
+      "Bash(xxd)",
+      "WebFetch(domain:elixir.bootlin.com)",
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:git.kernel.org)"
     ]
   }
 }
