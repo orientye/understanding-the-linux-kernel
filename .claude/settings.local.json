@@ -5,7 +5,22 @@
       "WebFetch(domain:elixir.bootlin.com)",
       "WebSearch",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:git.kernel.org)"
+      "WebFetch(domain:git.kernel.org)",
+      "Workflow(deep-research)",
+      "Skill(deep-research)",
+      "Skill(deep-research:*)",
+      "WebFetch(domain:ebpf.io)",
+      "WebFetch(domain:www.kernel.org)",
+      "WebFetch(domain:docs.kernel.org)",
+      "WebFetch(domain:kernelnewbies.org)",
+      "WebFetch(domain:bootlin.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:lwn.net)",
+      "WebFetch(domain:training.linuxfoundation.org)",
+      "WebFetch(domain:rust-for-linux.com)",
+      "WebFetch(domain:docs.ebpf.io)",
+      "WebFetch(domain:lore.kernel.org)",
+      "WebFetch(domain:man7.org)"
     ]
   }
 }
